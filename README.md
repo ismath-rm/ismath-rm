@@ -1,6 +1,6 @@
-<!-- Hero Section -->
+<!-- Modern Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/213890155-7f88392f-1ad7-4ec7-bb6d-4dcf5d2e1a6d.png" width="100%" />
 </p>
 
 <h1 align="center">
